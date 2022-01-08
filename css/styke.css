@@ -41,7 +41,7 @@ section.card{
 
 .perfil{
   padding: 6rem 6rem 1.5rem 6rem;;
-  background-image: url(/images/bg-pattern-card.svg);
+  background-image: url(../images/bg-pattern-card.svg);
   background-repeat: no-repeat;
   background-size: contain;
   display: flex;
