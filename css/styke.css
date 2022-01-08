@@ -35,7 +35,7 @@ main{
 
 section.card{
   background-color: white;
-  border-radius: 20px;
+  border-radius: 1.25rem;
   overflow: hidden;
 }
 
@@ -53,20 +53,20 @@ section.card{
 .perfil img{
   border-radius: 50%;
   background-color: white;
-  border: solid 5px white;
+  border: solid .4rem white;
 }
 
-.perfil h2{
-  margin-top: 20px;
-  margin-bottom: 10px;
+.perfil h1{
+  margin-top: 1.25rem;
+  margin-bottom: .6rem;
 }
 
-.perfil h2 span {
+.perfil h1 span {
   color: var(--Dark-grayish-blue);
   font-weight: 400;
 }
 
-.perfil h2, .info h2{
+.perfil h1, .info p{
   color: var(--Very-dark-desaturated-blue);
 }
 
@@ -83,6 +83,11 @@ section.card{
   font-size: .9rem;
 }
 
+.info p{
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
 .info span{
   font-size: .7rem;
   letter-spacing: 2px;
@@ -91,8 +96,8 @@ section.card{
 
 .attribution {
   width: 100%;
-  font-size: 11px; 
+  font-size: .68rem; 
   text-align: center;
-  padding-bottom: 5px;
+  padding-bottom: .3rem;
 }
 .attribution a { color: hsl(229, 100%, 97%); }
