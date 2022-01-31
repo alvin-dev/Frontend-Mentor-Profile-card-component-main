@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](#)
+- Solution URL: [frontendmentor.io/solutions/profile-card-component-using-grid-and-flex-box](https://www.frontendmentor.io/solutions/profile-card-component-using-grid-and-flex-box-8c0M3o2OY)
+- Live Site URL: [alvin-dev.github.io/Frontend-Mentor-Profile-card-component-main](https://alvin-dev.github.io/Frontend-Mentor-Profile-card-component-main/)
 
 ## My process
 
